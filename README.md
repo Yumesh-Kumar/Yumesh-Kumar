@@ -26,21 +26,9 @@ in 2015-2019
 
 **Projects:**
 1. **Drona Fitness App**
-   - Developed an app for users to discover and participate in events like music, yoga, dance, etc., based on their location and interests.
-
 2. **Creysto CRM**
-   - Created a CRM app to help employees manage customer details and track records for different organizations.
-
 3. [**Veda Academy**](https://play.google.com/store/apps/details?id=com.koshish.veda&hl=en-IN)
-   - Designed a learning app enabling users to take tests, learn from videos, and analyze their self-study progress.
-
 4. [**Payngo**](https://play.google.com/store/apps/details?id=com.evdt.payngo&hl=en-IN)
-   -  A B2B B2C app by using it payngo sell the recharge voucher and sim cards to retailer and retailers can directly sell the vouchers , sim cards to end users.
 5. [**Renters**](https://play.google.com/store/apps/details?id=com.renters.Renters.prod&hl=en-IN)
-   - A rent management platform where user can easily search for rent get it and pay rent and land lord can also easily track the record of rents worked in mobile app admin panel both.
 6. [**Custombackers**](https://www.thecustombakers.com/)
-   - A bakery web app from this app users can buy bakery items
-
 7. [**Decabits Logomaker**](https://logomaker.decabits.com/)
-   - A website by using it user can build logo of their company or for self
-   
